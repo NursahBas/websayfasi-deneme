@@ -1,0 +1,14 @@
+.arkaplanresim{
+    background-image: url('teknovol-img/arkaplan.jpeg');
+    height: 100px;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.breadcrumb{
+    background-color: transparent!important;
+  
+
+}
